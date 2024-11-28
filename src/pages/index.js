@@ -11,6 +11,7 @@ import Faqs from '@/components/Faqs/Faqs';
 
 
 
+
 export default function Home() {
   return (
     <div className="App">
